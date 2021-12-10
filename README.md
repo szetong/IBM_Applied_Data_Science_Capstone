@@ -1,3 +1,3 @@
 # IBM_Applied_Data_Science_Capstone
 
-#testing
+This refer to the IBM Data Science Proffesional Course - Applied Data Science Capstone
